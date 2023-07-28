@@ -5,3 +5,4 @@ node_modules
 *.iml
 *.html
 /docs/.vuepress/dist/
+docs/.vuepress/dist/
