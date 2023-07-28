@@ -12,6 +12,7 @@ module.exports = [
   { text: '专题',link: '/topic/',
     items: [
       { text: '黄金屋-颜如玉', link: '/pages/f12cf2/'},
+      { text: '程序化广告', link: '/pages/0c5eef/'},
     ]
   },
   { text: '生活',link: '/life/',
