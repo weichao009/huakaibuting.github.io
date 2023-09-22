@@ -42,7 +42,7 @@
       </div>
     </div>
 
-    <div v-if="indexView" class="webinfo-item">
+    <!-- <div v-if="indexView" class="webinfo-item">
       <div class="webinfo-item-title">您的访问排名：</div>
       <div class="webinfo-content busuanzi">
         <span id="busuanzi_value_site_uv" class="web-site-uv"
@@ -50,7 +50,7 @@
         </span>
         名
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 

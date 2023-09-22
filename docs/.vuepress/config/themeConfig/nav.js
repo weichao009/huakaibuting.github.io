@@ -13,6 +13,7 @@ module.exports = [
     items: [
       { text: '黄金屋-颜如玉', link: '/pages/f12cf2/'},
       { text: '程序化广告', link: '/pages/0c5eef/'},
+      { text: '禅茶一味', link: '/pages/4dc126/'},
     ]
   },
   { text: '生活',link: '/life/',
@@ -20,7 +21,7 @@ module.exports = [
       { text: '随写编年', link: '/pages/bcd0c7/'},
       { text: '家人物语', link: '/pages/2442.html'},
       { text: '追忆青春', link: '/pages/b230e5/'},
-      { text: '酒肉君子', link: '/pages/d791f2/'},
+      { text: '大千世界', link: '/pages/62f6e4/'},
     ]
   },
   { text: '大数据',link: '/code/',
@@ -31,6 +32,7 @@ module.exports = [
       { text: 'ClickHouse', link: '/pages/7af185/'},
       { text: 'MySQL', link: '/pages/c5289d/' },
       { text: 'PostgreSQL', link: '/pages/16473c/'},
+      { text: 'MongoDB', link: '/pages/510960/'},
       { text: '调度器', link: '/pages/7079d5/'},
     ]
   },
